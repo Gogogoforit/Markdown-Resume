@@ -44,7 +44,7 @@
 
   In this paper, we have created two simulated multispectral datasets from two hyperspectral datasets whose ground truths are given. Then we apply the unmixing methods (VCA, NMF, N-FINDR) to these two datasets. The results demonstrate the possibilities in extending these unmixing methods to the field of multispectral imaging.
 
-  - **Comparison of Linear Unmixing Methods on Paintings Data Set**
+- **Comparison of Linear Unmixing Methods on Paintings Data Set**
 
   *Key words: Hyperspectral Unmixing, Endmember Extraction*
 
