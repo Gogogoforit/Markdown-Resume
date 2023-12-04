@@ -37,7 +37,7 @@
 - Bachelor of Engineering, Chongqing University
 
 
-## <img src="assets/project-diagram-solid.svg" width="30px"> Publication
+## <img src="assets/newspaper.svg" width="30px"> Publication
 
 - **Extending the Unmixing methods to Multispectral Images**
 
