@@ -66,12 +66,13 @@
 
 ## <img src="assets/globe.svg" width="30px"> Language
 
-- ★★★ Matlab 
-- ★★★ Python
-- ★★☆ C、C++
-- ★★☆ Linux
-- ★★☆ Git
-- ★★★ MySQL
-- ★★☆ Spring
-- ★★☆ JavaScript、CSS
-- ★☆☆ Java
+- **English -- Proficiency**
+
+  *TOFEL*
+  *GRE*
+- **French -- Proficiency**
+
+  *DELF B2*
+- **Chinese -- Mother Tongue**
+
+  *DELF B2*
