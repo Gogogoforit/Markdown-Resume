@@ -33,9 +33,9 @@
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> Education
 
-- PhD，University of Burgundy，Computer Science，2019.10~Now
-- Master，Norweigian University of Science and Technology，Simulation and Visualization，2017.9~2019.7
-- Bachelor of Engineering, Chongqing University
+- Doctor of Philosophy，University of Burgundy，France, Computer Science，2019.10~Now
+- Master of Science，Norwegian University of Science and Technology，Norway, Simulation and visualisation，2017.9~2019.7
+- Bachelor of Engineering, Chongqing University, China, Computer Engineering, 2012.9~2016.7
 
 
 ## <img src="assets/newspaper.svg" width="30px"> Publication
