@@ -36,7 +36,7 @@
 - Master，Norweigian University of Science and Technology，Simulation and Visualization，2017.9~2019.7
 - Bachelor of Engineering, Chongqing University
 
-## <img src="assets/briefcase-solid.svg" width="30px"> 工作经历
+## <img src="assets/download.png" width="30px"> 工作经历
 
 - **XXXX 公司，XXXX 部门，XXXX 工程师，2010.1~2010.9**
 
