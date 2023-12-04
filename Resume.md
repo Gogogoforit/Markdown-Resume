@@ -48,9 +48,9 @@
 
 - **ATSFCNN: A Novel Attention-based Triple-Stream Fused CNN Model for Hyperspectral Image Classification**
 
-  *使用到的技术*
+  *Key words: Deep Learning, CNN, Attention Mechanism, Hyperspectral Classification*
 
-  使用一两句话描述项目的主要功能，然后介绍自己在项目中的角色，解决了什么问题，使用什么方式解决，比别人的方法相比有什么优势（尽量用数据来说明）。  
+  In this paper, we propose a novel CNN model named ATSFCNN (Attention-based Triple-Stream Fused Convolutional Neural Network) that fuses the features of 1D-CNN, 2D-CNN, and 3D-CNN to consider all the relevant information of the hyperspectral dataset. Our contributions are twofold: First, we propose a strategy to extract and homogenize features from 1D, 2D, and 3D CNN. Secondly, we propose a way to efficiently fuse these features.
 
 ## <img src="assets/tools-solid.svg" width="30px"> Skills
 
