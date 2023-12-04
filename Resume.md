@@ -36,13 +36,21 @@ I am excited about the opportunity to contribute my skills to EUMETSAT's Scienti
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> Education
 
 - Ph.D. in Computer Science
+- 
   *University of Burgundy, France*
+  
   *2019.10 - Present (Expected Defense: Q1 2024)*
+  
 - M.Sc. in Simulation and Visualization
+- 
   *Norwegian University of Science and Technology, Norway*
+  
   *2017.9 - 2019.7*
+  
 - B.Eng. in Computer Engineering
+- 
   *Chongqing University, China*
+  
   *2012.9 - 2016.7*
 
 
