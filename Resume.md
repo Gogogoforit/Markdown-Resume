@@ -3,12 +3,12 @@
      <div>
          <span>
              <img src="assets/phone-solid.svg" width="18px">
-             +33 06 65 35 41 52
+             (+33) 06 65 35 41 52
          </span>
          ·
          <span>
              <img src="assets/envelope-solid.svg" width="18px">
-             jizhencai@gmail.com
+             jizhencai94@gmail.com
          </span>
          ·
          <span>
