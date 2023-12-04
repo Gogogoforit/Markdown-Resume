@@ -61,3 +61,15 @@
 - ★★☆ Spring
 - ★★☆ JavaScript、CSS
 - ★☆☆ Java
+
+## <img src="assets/globe.svg" width="30px"> Language
+
+- ★★★ Matlab 
+- ★★★ Python
+- ★★☆ C、C++
+- ★★☆ Linux
+- ★★☆ Git
+- ★★★ MySQL
+- ★★☆ Spring
+- ★★☆ JavaScript、CSS
+- ★☆☆ Java
