@@ -76,7 +76,6 @@
   *TOFEL -- 103/120 (In 2015)*
   
 - **French: Proficiency (Learned in my free time for better adaptation to the local environment)**
-  I think learning the local language is necessary to adapt to the environment, so I learn French in my free time
 
   *DELF B2 (In 2022)*
 
