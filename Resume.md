@@ -73,6 +73,3 @@
 - **French -- Proficiency**
 
   *DELF B2*
-- **Chinese -- Mother Tongue**
-
-  *DELF B2*
