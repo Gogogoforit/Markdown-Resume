@@ -77,6 +77,6 @@
 
   *DELF B2 (In 2022)*
 
-- **Chinese -- Mother Tongue**
+- **Chinese -- Mother Language**
 
 
