@@ -13,12 +13,12 @@
          ·
          <span>
              <img src="assets/github-brands.svg" width="18px">
-             <a href="https://github.com/CyC2018">CyC2018</a>
+             <a href="https://github.com/Gogogoforit">Gogogoforit</a>
          </span>
          ·
          <span>
              <img src="assets/rss-solid.svg" width="18px">
-             <a href="#">My Blog</a>
+             <a href="https://blog.csdn.net/garrulousabyss">My Blog</a>
          </span>
      </div>
  </center>
