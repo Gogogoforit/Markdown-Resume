@@ -66,13 +66,16 @@
 ## <img src="assets/globe.svg" width="30px"> Language
 
 - **English -- Proficiency**
+  English is my working language during my master and PhD education. 
 
-  *TOFEL*
+  *GRE -- 329/340 (In 2014)*
+
+  *TOFEL -- 103/120 (In 2015)*
   
-  *GRE*
 - **French -- Proficiency**
+  I think learning the local language is necessary to adapt to the environment, so I learn French in my free time
 
-  *DELF B2*
+  *DELF B2 (In 2022)*
 
 - **Chinese -- Mother Tongue**
 
