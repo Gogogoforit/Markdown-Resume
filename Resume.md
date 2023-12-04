@@ -26,9 +26,7 @@
  ## <img src="assets/info-circle-solid.svg" width="30px"> About me 
 
 
- - Hi, I am Jizhen Cai, I am currently a PhD candidate in Computer Science, and I will have my PhD denfense in the beginning of 2024.
- - I am interested in Machine Learning and Deep Learning. My Master thesis and PhD thesis all concern about that.
- - I have interest in the data processing as well as the software development.
+ - Greetings! I'm Jizhen Cai, a passionate and dedicated Ph.D. candidate in Computer Science, set to defend my thesis in early 2024. My academic journey has been marked by a profound interest in machine learning and deep learning, as evidenced by my Master's thesis and ongoing doctoral research.
 
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> Education
