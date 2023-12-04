@@ -68,8 +68,8 @@
 
 - **English -- Proficiency**
 
-  *TOFEL*
-  *GRE*
+-  *TOFEL*
+-  *GRE*
 - **French -- Proficiency**
 
   *DELF B2*
