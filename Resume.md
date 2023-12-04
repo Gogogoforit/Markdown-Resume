@@ -8,7 +8,7 @@
          ·
          <span>
              <img src="assets/envelope-solid.svg" width="18px">
-             jizhencai@gmaim.com
+             jizhencai@gmail.com
          </span>
          ·
          <span>
@@ -23,19 +23,18 @@
      </div>
  </center>
 
- ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
+ ## <img src="assets/info-circle-solid.svg" width="30px"> About me 
 
- - 男，1994 年出生
+
  - 求职意向：Java 研发工程师
  - 工作经验：0 年（校招可不填）
  - 期望薪资：0k（校招可不填）
 
-## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
+## <img src="assets/graduation-cap-solid.svg" width="30px"> Education
 
-- 硕士，XXXX大学，计算机科学与技术专业，2016.9~2019.7
-- 学士，XXXX大学，软件工程专业，2012.9~2016.7
-- 绩点：***，年级前 100%
-- 通过了 CET4/6 英语等级考试
+- PhD，University of Burgundy，Computer Science，2019.10~Now
+- Master，Norweigian University of Science and Technology，Simulation and Visualization，2017.9~2019.7
+- Bachelor of Engineering, Chongqing University
 
 ## <img src="assets/briefcase-solid.svg" width="30px"> 工作经历
 
