@@ -44,6 +44,12 @@
 
   In this paper, we have created two simulated multispectral datasets from two hyperspectral datasets whose ground truths are given. Then we apply the unmixing methods (VCA, NMF, N-FINDR) to these two datasets. The results demonstrate the possibilities in extending these unmixing methods to the field of multispectral imaging.
 
+  - **Comparison of Linear Unmixing Methods on Paintings Data Set**
+
+  *Key words: Hyperspectral Unmixing, Endmember Extraction*
+
+  Hyperspectral unmixing consists in extracting Endmembers and estimating the abundance of each Endmember in each pixel of the images. In this article, we present three state of the art methods in Endmembers Extraction. These methods are originally used in the field of remote sensing. They are applied to a new domain: paintings. We compare and analyze their performances and results.
+
 - **ATSFCNN: A Novel Attention-based Triple-Stream Fused CNN Model for Hyperspectral Image Classification**
 
   *Key words: Deep Learning, CNN, Attention Mechanism, Hyperspectral Classification*
