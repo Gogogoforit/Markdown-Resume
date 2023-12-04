@@ -60,7 +60,6 @@
 - ★★☆ Linux
 - ★★☆ Git
 - ★★★ MySQL
-- ★★☆ Spring
 - ★★☆ JavaScript、CSS
 - ★☆☆ Java
 
