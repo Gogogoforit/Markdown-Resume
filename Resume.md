@@ -26,11 +26,11 @@
  ## <img src="assets/info-circle-solid.svg" width="30px"> About me 
 
 
- - Greetings! I'm Jizhen Cai, a dedicated Ph.D. candidate in Computer Science, poised to defend my thesis in early 2024. My academic journey reflects a passion for big data, machine learning, deep learning, and a keen interest in data processing and software development, with a focus on applications in remote sensing.
+ - Greetings! I'm Jizhen Cai, a dedicated Ph.D. candidate in Computer Science, poised to defend my thesis in March 2024. My academic journey reflects a passion for big data, machine learning, deep learning, and a keen interest in data processing and software development.
 
 - I specialize in MATLAB and Python, and my research contributions include extending unmixing methods to multispectral images and introducing an attention-based triple-stream fused CNN model for hyperspectral image classification. Proficient in English and French, I bring technical versatility and innovative thinking to every project.
 
-- I am excited about the opportunity to contribute my skills to EUMETSAT's Scientific Data Processing Engineer role, combining my academic achievements with a practical approach to solving real-world challenges.
+- I am excited about the opportunity to contribute my skills to Docteur R&D Data Scientist/Analyse de données, combining my academic achievements with a practical approach to solving real-world challenges.
 
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> Education
