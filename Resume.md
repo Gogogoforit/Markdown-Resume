@@ -35,7 +35,6 @@
 
 - I specialize in MATLAB and Python, and my research contributions include extending unmixing methods to multispectral images and introducing an attention-based triple-stream fused CNN model for hyperspectral image classification. Proficient in English and French, I bring technical versatility and innovative thinking to every project.
 
-- I am excited about the opportunity to contribute my skills to Docteur R&D Data Scientist/Analyse de données, combining my academic achievements with a practical approach to solving real-world challenges.
 
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> Education
