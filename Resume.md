@@ -13,7 +13,12 @@
          ·
          <span>
              <img src="assets/github-brands.svg" width="18px">
-             <a href="https://github.com/Gogogoforit">Gogogoforit</a>
+             <a href="https://github.com/Gogogoforit">Github</a>
+         </span>
+         ·
+         <span>
+             <img src="assets/linkedin.svg" width="18px">
+             <a href="https://www.linkedin.com/in/jizhen-cai-7527a9162/">Linkedin</a>
          </span>
          ·
          <span>
