@@ -32,7 +32,7 @@
 
 - Salutations ! Je suis Jizhen Cai, un doctorant en informatique, prêt à défendre ma thèse en mars 2024. Mon parcours académique reflète une passion pour le big data, l'apprentissage automatique, le deep learning, et un vif intérêt pour le traitement des données et le développement logiciel.
 
-- Je me spécialise dans MATLAB et Python, et mes contributions à la recherche incluent l'extension des méthodes de démélange aux images multispectrales et l'introduction d'un modèle CNN triple-stream basé sur l'attention pour la classification d'images hyperspectrales. Ma maîtrise de l'anglais et du français apporte une polyvalence technique et une pensée novatrice à chaque projet.
+- Je me spécialise dans MATLAB et Python, et mes contributions à la recherche incluent l'extension des méthodes de démélange aux images multispectrales et l'introduction d'un modèle CNN triple-stream basé sur l'Attention Mechanism pour la classification d'images hyperspectrales. Ma maîtrise de l'anglais et du français apporte une polyvalence technique et une pensée novatrice à chaque projet.
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> Éducation
 
