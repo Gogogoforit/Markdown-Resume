@@ -44,13 +44,13 @@
   
 - Master en simulation et visualisation
 
-  - *Université norvégienne des sciences et technologies, Norvège*
+  - *Norwegian University of Science and Technology, Norvège*
   
   - *2017.9 - 2019.7*
   
 - Licence en génie informatique
 
-  - *Université de Chongqing, Chine*
+  - *Chongqing University, Chine*
   
   - *2012.9 - 2016.7*
 
