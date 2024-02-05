@@ -28,79 +28,75 @@
      </div>
  </center>
 
- ## <img src="assets/info-circle-solid.svg" width="30px"> About me 
+## <img src="assets/info-circle-solid.svg" width="30px"> À propos de moi
 
+- Salutations ! Je suis Jizhen Cai, un doctorant dévoué en informatique, prêt à défendre ma thèse en mars 2024. Mon parcours académique reflète une passion pour le big data, l'apprentissage automatique, le deep learning, et un vif intérêt pour le traitement des données et le développement logiciel.
 
- - Greetings! I'm Jizhen Cai, a dedicated Ph.D. candidate in Computer Science, poised to defend my thesis in March 2024. My academic journey reflects a passion for big data, machine learning, deep learning, and a keen interest in data processing and software development.
+- Je me spécialise dans MATLAB et Python, et mes contributions à la recherche incluent l'extension des méthodes de démélange aux images multispectrales et l'introduction d'un modèle CNN triple-stream basé sur l'attention pour la classification d'images hyperspectrales. Ma maîtrise de l'anglais et du français apporte une polyvalence technique et une pensée novatrice à chaque projet.
 
-- I specialize in MATLAB and Python, and my research contributions include extending unmixing methods to multispectral images and introducing an attention-based triple-stream fused CNN model for hyperspectral image classification. Proficient in English and French, I bring technical versatility and innovative thinking to every project.
+## <img src="assets/graduation-cap-solid.svg" width="30px"> Éducation
 
+- Doctorat en informatique
 
-
-## <img src="assets/graduation-cap-solid.svg" width="30px"> Education
-
-- Ph.D. in Computer Science
- 
-  - *University of Burgundy, France*
+  - *Université de Bourgogne, France*
   
-  - *2019.10 - Present (Expected Defense: Q1 2024)*
+  - *2019.10 - Présent (Défense prévue : T1 2024)*
   
-- M.Sc. in Simulation and Visualization
- 
-  - *Norwegian University of Science and Technology, Norway*
+- Master en simulation et visualisation
+
+  - *Université norvégienne des sciences et technologies, Norvège*
   
   - *2017.9 - 2019.7*
   
-- B.Eng. in Computer Engineering
+- Licence en génie informatique
 
-  - *Chongqing University, China*
+  - *Université de Chongqing, Chine*
   
   - *2012.9 - 2016.7*
 
+## <img src="assets/newspaper.svg" width="30px"> Publications
 
-## <img src="assets/newspaper.svg" width="30px"> Publication
+- **Extension des méthodes de démélange aux images multispectrales**
 
-- **Extending the Unmixing methods to Multispectral Images**
+  *Mots clés : Démélange, Télédétection, Images multispectrales, Images hyperspectrales*
 
-  *Key words: Unmixing, Remote Sensing, Multispectral Images, Hyperspectral Images*
+  Dans cet article, nous avons créé deux ensembles de données multispectrales simulées à partir de deux ensembles de données hyperspectrales dont les vérités terrain sont fournies. Ensuite, nous appliquons les méthodes de démélange (VCA, NMF, N-FINDR) à ces deux ensembles de données. Les résultats démontrent les possibilités d'étendre ces méthodes de démélange au domaine de l'imagerie multispectrale.
 
-  In this paper, we have created two simulated multispectral datasets from two hyperspectral datasets whose ground truths are given. Then we apply the unmixing methods (VCA, NMF, N-FINDR) to these two datasets. The results demonstrate the possibilities in extending these unmixing methods to the field of multispectral imaging.
+- **Comparaison des méthodes de démélange linéaire sur l'ensemble de données de peintures**
 
-- **Comparison of Linear Unmixing Methods on Paintings Data Set**
+  *Mots clés : Démélange hyperspectral, Extraction d'endmembers*
 
-  *Key words: Hyperspectral Unmixing, Endmember Extraction*
+  Le démélange hyperspectral consiste à extraire des endmembers et à estimer l'abondance de chaque endmember dans chaque pixel des images. Dans cet article, nous présentons trois méthodes de pointe dans l'extraction d'endmembers. Ces méthodes sont initialement utilisées dans le domaine de la télédétection. Elles sont appliquées à un nouveau domaine : les peintures. Nous comparons et analysons leurs performances et résultats.
 
-  Hyperspectral unmixing consists in extracting Endmembers and estimating the abundance of each Endmember in each pixel of the images. In this article, we present three state of the art methods in Endmembers Extraction. These methods are originally used in the field of remote sensing. They are applied to a new domain: paintings. We compare and analyze their performances and results.
+- **ATSFCNN : un nouveau modèle CNN fusionné à triple flux basé sur l'attention pour la classification d'images hyperspectrales**
 
-- **ATSFCNN: A Novel Attention-based Triple-Stream Fused CNN Model for Hyperspectral Image Classification**
+  *Mots clés : Apprentissage profond, CNN, Mécanisme d'attention, Classification hyperspectrale*
 
-  *Key words: Deep Learning, CNN, Attention Mechanism, Hyperspectral Classification*
+  Dans cet article, nous proposons un nouveau modèle CNN appelé ATSFCNN (Attention-based Triple-Stream Fused Convolutional Neural Network) qui fusionne les caractéristiques des CNN 1D, 2D et 3D pour prendre en compte toutes les informations pertinentes du jeu de données hyperspectral. Nos contributions sont doubles : d'abord, nous proposons une stratégie pour extraire et homogénéiser les caractéristiques des CNN 1D, 2D et 3D. Ensuite, nous proposons une manière de fusionner efficacement ces caractéristiques.
 
-  In this paper, we propose a novel CNN model named ATSFCNN (Attention-based Triple-Stream Fused Convolutional Neural Network) that fuses the features of 1D-CNN, 2D-CNN, and 3D-CNN to consider all the relevant information of the hyperspectral dataset. Our contributions are twofold: First, we propose a strategy to extract and homogenize features from 1D, 2D, and 3D CNN. Secondly, we propose a way to efficiently fuse these features.
-
-## <img src="assets/tools-solid.svg" width="30px"> Skills
+## <img src="assets/tools-solid.svg" width="30px"> Compétences
 
 - ★★★ Matlab 
 - ★★★ Python
-- ★★☆ C、C++
+- ★★☆ C, C++
 - ★★☆ Linux
 - ★★☆ Git
 - ★★★ MySQL
-- ★★☆ JavaScript、CSS
+- ★★☆ JavaScript, CSS
 - ★☆☆ Java
 
-## <img src="assets/globe.svg" width="30px"> Language
+## <img src="assets/globe.svg" width="30px"> Langues
 
-- **English: Proficient (Used as the primary language during my Master's and Ph.D. studies)**
+- **Anglais : Courant (Utilisé comme langue principale lors de mes études de master et de doctorat)**
 
-  *GRE -- 329/340 (In 2014)*
+  *GRE -- 329/340 (En 2014)*
 
-  *TOFEL -- 103/120 (In 2015)*
+  *TOFEL -- 103/120 (En 2015)*
   
-- **French: Proficiency (Learned in my free time for better adaptation to the local environment)**
+- **Français : Compétence (Appris pendant mon temps libre pour une meilleure adaptation à l'environnement local)**
 
-  *DELF B2 (In 2022)*
+  *DELF B2 (En 2022)*
 
-- **Chinese: Mother Tongue**
+- **Chinois : Langue maternelle**
 
 
